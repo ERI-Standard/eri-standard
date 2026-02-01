@@ -8,4 +8,11 @@ It documents measurable discrepancies using a neutral, repeatable methodology.
 Current scope includes fashion commerce.
 Future extensions will be published through formal versions.
 
+## Canonical Documents
+
+- ERI Charter v1.0 — (./charter/)
+- ERI Methodology v1.0 (Fashion Commerce) — (./methodology/)
+- ERI Case Brief #001 — (./cases/)
+
+
 © 2026 Expectation vs. Reality Index
